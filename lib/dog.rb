@@ -14,3 +14,6 @@ class Dog
     @bread
   end
 end
+
+fido = Dog.new
+puts fido.name
