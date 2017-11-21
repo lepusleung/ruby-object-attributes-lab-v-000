@@ -16,5 +16,3 @@ class Dog
   end
 end
 
-fido = Dog.new
-puts fido.name
